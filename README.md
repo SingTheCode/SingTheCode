@@ -26,10 +26,10 @@
 
 <p align="left">
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingTheCode&layout=compact&theme=react" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingTheCode&layout=compact&theme=react" width="350" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=SingTheCode&theme=react&show_icons=true"  width="480"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SingTheCode&theme=react&show_icons=true"  width="420"/>
 </a>  
 </p>
 
