@@ -12,12 +12,12 @@
 
 ## 📚 Top open source projects
 
-<p align="left">
-  <a href="https://github.com/Collusic/collusic-new"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Collusic&repo=collusic-new&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="collusic-new"></a>
-  <a href="https://github.com/SingTheCode/fitween"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SingTheCode&repo=fitween&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="fitween"></a>
-  <a href="https://github.com/Collusic/collusic"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Collusic&repo=collusic&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="collusic"></a>
-  <a href="https://github.com/JS-GreenTea/web-with-js"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JS-GreenTea&repo=web-with-js&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="web-with-js"></a>
-  <a href="https://github.com/SingTheCode/POP-Movie"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SingTheCode&repo=POP-Movie&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="POP-Movie"></a>
+<p align="center">
+  <a href="https://github.com/Collusic/collusic-new"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Collusic&repo=collusic-new&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="collusic-new"></a>
+  <a href="https://github.com/SingTheCode/fitween"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SingTheCode&repo=fitween&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="fitween"></a>
+  <a href="https://github.com/Collusic/collusic"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Collusic&repo=collusic&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="collusic"></a>
+  <a href="https://github.com/JS-GreenTea/web-with-js"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JS-GreenTea&repo=web-with-js&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="web-with-js"></a>
+  <a href="https://github.com/SingTheCode/POP-Movie"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SingTheCode&repo=POP-Movie&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="POP-Movie"></a>
 </p>
 
 ## Recent Blog
