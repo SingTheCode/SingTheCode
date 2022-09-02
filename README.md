@@ -35,4 +35,3 @@
 [2022/7/7 - CSR vs SSR](https://velog.io/@singco/CSR-vs-SSR) <br>
 [2022/5/20 - 1-4 기본형 데이터와 참조형 데이터](https://velog.io/@singco/1-4-%EA%B8%B0%EB%B3%B8%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%EC%B0%B8%EC%A1%B0%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0) <br>
 [2022/5/18 - 1-3 변수 선언과 데이터 할당](https://velog.io/@singco/1-3-%EB%B3%80%EC%88%98-%EC%84%A0%EC%96%B8%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%95%A0%EB%8B%B9) <br>
-[2022/5/17 - 1-2 데이터 타입에 관한 배경지식](https://velog.io/@singco/1-2-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85%EC%97%90-%EA%B4%80%ED%95%9C-%EB%B0%B0%EA%B2%BD%EC%A7%80%EC%8B%9D) <br>
