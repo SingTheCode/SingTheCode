@@ -3,7 +3,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9F88F7&width=450&lines=Frontend+developer+seeking+clear+code;Developer+leading+collaboration" alt="Typing SVG" /></a></p>
 <p align="center">
   <a href="https://151958.notion.site/Singco-566e46c05845419a948625aae0e89647?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?&style=for-the-badge&logo=notion&logoColor=white" height=25></a>
-  <a href="https://151958.notion.site/Frontend-ee2b00763ebc4446b3da49c4fbfb229a?pvs=4"><img src="https://img.shields.io/badge/Belog-ffbf00?&style=for-the-badge&logo=notion&logoColor=white" height=25></a>
+  <a href="https://151958.notion.site/"><img src="https://img.shields.io/badge/Belog-ffbf00?&style=for-the-badge&logo=notion&logoColor=white" height=25></a>
   <a href="https://www.instagram.com/singco_tive"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
 
