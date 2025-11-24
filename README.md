@@ -1,17 +1,17 @@
 <div align="center">
   <h3>Welcome to Jaehyun Park's profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand"></h3>
-  <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9F88F7&width=450&lines=Frontend+developer+seeking+clear+code;Developer+leading+collaboration" alt="Typing SVG" /></a></p>
+  <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9F88F7&width=450&lines=Developer+driving+customer+experience;Developer+improving+business+metrics" alt="Typing SVG" /></a></p>
   <p>
-    <a href="https://151958.notion.site/Singco-566e46c05845419a948625aae0e89647?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?&style=for-the-badge&logo=notion&logoColor=white" height=25 alt="Portfolio"></a>
-    <a href="https://151958.notion.site/"><img src="https://img.shields.io/badge/Blog-ffbf00?&style=for-the-badge&logo=notion&logoColor=white" height=25 alt="Blog"></a>
+    <a href="https://www.figma.com/design/43EsRY8JANa8jhMDXssuXn/%EB%B0%95%EC%9E%AC%ED%98%84-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0-1&t=l6xAL8SpZDWalAw4-1"><img src="https://img.shields.io/badge/Portfolio-000000?&style=for-the-badge&logo=figma&logoColor=white" height=25 alt="Portfolio"></a>
+    <a href="https://singcotive.tistory.com/"><img src="https://img.shields.io/badge/Blog-EB531F?&style=for-the-badge&logo=tistory&logoColor=white" height=25 alt="Blog"></a>
     <a href="https://www.instagram.com/singco_tive"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" height=25 alt="Instagram"></a>
   </p>
 </div>
 
 ## 📚 Top open source projects
 <div>
+  <a href="https://github.com/Collusic/collusic-new"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=githru&repo=githru-vscode-ext&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="githru-vscode-ext" /></a>
   <a href="https://github.com/SingTheCode/climingo-client"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SingTheCode&repo=climingo-client&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="climingo" /></a>
-  <a href="https://github.com/Collusic/collusic-new"><img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Collusic&repo=collusic-new&theme=react&hide_border=true&icon_color=F8D866&show_icons=false" alt="collusic-new" /></a>
 </div>
 
 ## 🔥 Stats
@@ -26,19 +26,14 @@
 
 ## Skills
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" height=25 alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" height=25 alt="CSS3">
-  <img src="https://img.shields.io/badge/Sass-CC6699?&style=for-the-badge&logo=Sass&logoColor=white" height=25 alt="Sass">
-  <img src="https://img.shields.io/badge/styled components-DB7093?&style=for-the-badge&logo=styled-components&logoColor=white" height=25 alt="Styled Components">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white" height=25 alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?&style=for-the-badge&logo=TypeScript&logoColor=white" height=25 alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=white" height=25 alt="React">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?&style=for-the-badge&logo=Vue.js&logoColor=white" height=25 alt="Vue.js">
-  <img src="https://img.shields.io/badge/Nginx-009639?&style=for-the-badge&logo=NGINX&logoColor=white" height=25 alt="Nginx">
+  <img src="https://img.shields.io/badge/Jest-C21325?&style=for-the-badge&logo=Jest&logoColor=white" height=25 alt="Jest">
   <img src="https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=Amazon AWS&logoColor=white" height=25 alt="AWS">
-  <img src="https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" height=25 alt="GitHub">
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?&style=for-the-badge&logo=GitLab&logoColor=white" height=25 alt="GitLab">
-  <img src="https://img.shields.io/badge/Jira-0052CC?&style=for-the-badge&logo=Jira Software&logoColor=white" height=25 alt="Jira">
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?&style=for-the-badge&logo=Webpack&logoColor=black" height=25 alt="Webpack">
+  <img src="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=white" height=25 alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?&style=for-the-badge&logo=Next.js&logoColor=white" height=25 alt="Next.js">
+  <img src="https://img.shields.io/badge/Vite-646CFF?&style=for-the-badge&logo=Vite&logoColor=white" height=25 alt="Vite">
 </div>
 
 ## Recent Blog (2024)
