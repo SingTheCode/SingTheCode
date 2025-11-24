@@ -36,8 +36,8 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?&style=for-the-badge&logo=Vite&logoColor=white" height=25 alt="Vite">
 </div>
 
-## Recent Blog (2024)
-[2024/6/28 - script 호출 순서 보장 이슈](https://151958.notion.site/script-27b5aeff394f436f912f3b2496e709cd?pvs=4) <br>
-[2024/5/27 - throttling을 통한 api 중복 호출 개선](https://151958.notion.site/throttling-api-be060f7b731149e1861d9682fcbc6106?pvs=4) <br>
-[2024/5/23 - ProductItem 상품 객체 공통화](https://151958.notion.site/ProductItem-59a7ab87ec41432fb18a03a8c08c278d?pvs=4) <br>
-[2024/5/10 - 홈 진입점이 꼭 필요한가?](https://151958.notion.site/i-080f1e2afe0f4d6d8e49a81ea259b38f?pvs=4) <br>
+## Recent Blog
+[2025/7/16 - LLM 활용 사례](https://singcotive.tistory.com/entry/LLM-%ED%99%9C%EC%9A%A9-%EC%82%AC%EB%A1%80) <br>
+[2025/6/20 - Playwright MCP로 E2E 테스트 자동화하기 (feat. 이마트 와인 구매)](https://singcotive.tistory.com/entry/%F0%9F%A4%96-Playwright-MCP%EB%A1%9C-E2E-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0-feat-%EC%9D%B4%EB%A7%88%ED%8A%B8-%EC%99%80%EC%9D%B8-%EA%B5%AC%EB%A7%A4) <br>
+[2025/6/19 - Javascript Interface로 앱스킴 동시호출 씹힘 현상 해결하기](https://singcotive.tistory.com/entry/Javascript-Interface%EB%A1%9C-%EC%95%B1%EC%8A%A4%ED%82%B4-%EB%8F%99%EC%8B%9C%ED%98%B8%EC%B6%9C-%EC%94%B9%ED%9E%98-%ED%98%84%EC%83%81-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0) <br>
+[2025/6/19 - 1년 동안 느껴본 LLM의 수준과 발전 가능성 그리고 대체 불가능한 인력이 되려면?](https://singcotive.tistory.com/entry/5%EC%9D%BC-%EB%8F%99%EC%95%88-%EB%8A%90%EA%BB%B4%EB%B3%B8-LLM%EC%9D%98-%EC%88%98%EC%A4%80%EA%B3%BC-%EB%B0%9C%EC%A0%84-%EA%B0%80%EB%8A%A5%EC%84%B1-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8C%80%EC%B2%B4-%EB%B6%88%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%9D%B8%EB%A0%A5%EC%9D%B4-%EB%90%98%EB%A0%A4%EB%A9%B4) <br>
