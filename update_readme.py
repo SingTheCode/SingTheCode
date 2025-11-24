@@ -43,7 +43,7 @@ markdown_text = f"""<div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?&style=for-the-badge&logo=TypeScript&logoColor=white" height=25 alt="TypeScript">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?&style=for-the-badge&logo=Vue.js&logoColor=white" height=25 alt="Vue.js">
   <img src="https://img.shields.io/badge/Jest-C21325?&style=for-the-badge&logo=Jest&logoColor=white" height=25 alt="Jest">
-  <img src="https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=Amazon AWS&logoColor=white" height=25 alt="AWS">
+  <img src="https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white" height=25 alt="AWS">
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?&style=for-the-badge&logo=Webpack&logoColor=black" height=25 alt="Webpack">
   <img src="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=white" height=25 alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?&style=for-the-badge&logo=Next.js&logoColor=white" height=25 alt="Next.js">
